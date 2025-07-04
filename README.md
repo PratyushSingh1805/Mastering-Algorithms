@@ -1,4 +1,4 @@
-# Mastering Algorithms – C++ Solutions
+# Mastering Algorithms (ACA IITK)
 
 This repository contains C++ implementations of assignment problems from the **Mastering Algorithms** project conducted under the **Association of Computing Activities (ACA), IIT Kanpur**.
 
